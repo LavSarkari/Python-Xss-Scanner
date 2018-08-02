@@ -12,7 +12,7 @@ http://holisticinfosec.blogspot.com/2016/06/toolsmith-tidbit-xsspy.html
 # Installation: 
 Type the following in the terminal.
 
-https://github.com/secureroot/Python-Xss-Scanner.git 
+https://github.com/simplyhippy/Python-Xss-Scanner.git 
 
 The tool works on Python 2.7 and you should have mechanize installed. If mechanize is not installed, type "pip install mechanize" in the terminal.
 
