@@ -34,9 +34,8 @@ class color:
 
 print color.BOLD + color.RED + """
 XssPy - Finding XSS made easier
-Author: Faizan Ahmad (Fsecurify)
-Email: fsecurify@gmail.com
-Usage: XssPy.py website.com (Not www.website.com OR http://www.website.com)
+Author: MKtech
+Usage: XssPy.py -u website.com -e (Not www.website.com OR http://www.website.com)
 Comprehensive Scan: python XssPy.py -u website.com -e
 Verbose logging: python XssPy.py -u website.com -v
 Cookies: python XssPy.py -u website.complex -c name=val name=val
