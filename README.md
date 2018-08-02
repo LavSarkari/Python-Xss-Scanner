@@ -37,6 +37,6 @@ With this tool, Cross Site Scripting vulnerabilities have been found in the webs
 
 
 # NOTE: 
-Mail me if you encounter any errors (1whenben@gmail.com). You can also post your problems on the website. I'll try my best to respond as soon as possible.
+Mail me if you encounter any errors . You can also post your problems on the website. I'll try my best to respond as soon as possible.
 
 
